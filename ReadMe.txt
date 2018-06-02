@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAcidburn0zzz%2FSimple-Translate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAcidburn0zzz%2FSimple-Translate?ref=badge_shield)
+
 Mozilla clean up:
 	1. Remove src/data/options
 	2. remove src/data/popup/popup.html -> script
@@ -18,3 +20,6 @@ Chrome clean up:
 Opera clean up:
 
 	1. Clean src/lib & src/data before packaging
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAcidburn0zzz%2FSimple-Translate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAcidburn0zzz%2FSimple-Translate?ref=badge_large)
